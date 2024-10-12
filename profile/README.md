@@ -1,42 +1,77 @@
-<h1>🌟 Welcome to Devtrex!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Devtrex!;Your+Partner+in+Innovative+Solutions" alt="Typing SVG" />
+</div>
 
-<p><strong>Your partner in innovative software solutions!</strong> We specialize in full-stack development, leveraging technologies like <strong>Frappe</strong>, <strong>Laravel</strong>, <strong>Python</strong>, and <strong>PHP</strong> to help businesses thrive. With a focus on cutting-edge solutions and exceptional user experiences, we’re here to transform your ideas into reality! 🚀</p>
+<br />
 
-<hr>
+<p align="center" style="color: white;">
+  <em>
+    Fullstack development experts dedicated to crafting efficient, scalable solutions. <br />
+    Driven by a vision to revolutionize the digital landscape and enhance user experiences.
+  </em>
+</p>
 
-<h2>Why Choose Us? 🤔</h2>
-<p>At Devtrex, we’re dedicated to meeting your needs while delivering outstanding results within your budget. Here’s why we stand out:</p>
+<br />
 
-<ul>
-    <li><strong>Expertise</strong>: Our team is rich in knowledge and experience, allowing us to create innovative IT solutions tailored just for you. 🎓💡</li>
-    <li><strong>User-Centric Approach</strong>: We prioritize your unique requirements, ensuring that every solution we deliver adds genuine value to your business. 👥💼</li>
-    <li><strong>Cutting-Edge Technology</strong>: Staying ahead of the curve, we implement the latest advancements to provide you with modern and efficient solutions. ⚡💻</li>
-</ul>
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AI-00B2FF?style=for-the-badge&logo=adobe&logoColor=white" alt="AI" />
+</div>
 
-<hr>
+<br />
 
-<h2>Our Mission 🌍</h2>
-<p>We aim to revolutionize the software development landscape by offering innovative solutions that streamline business processes. Our goal is to deliver unparalleled value, enabling your business to thrive in a competitive market. 💼💡</p>
+<h2 align="center" style="color: white;">🛠️ Our Services</h2>
+<div align="center">
+  <p style="color: white;">
+    <strong>Custom Software Development:</strong> Tailored solutions for your unique challenges.<br>
+    <strong>Web Development:</strong> Creating dynamic websites and web applications.<br>
+    <strong>Social Media Marketing:</strong> Enhancing your online presence and engagement.<br>
+    <strong>SEO Services:</strong> Improving your visibility in search engines.<br>
+    <strong>IT Consulting:</strong> Strategic guidance for your technology needs.<br>
+    <strong>Rebranding:</strong> Refreshing your brand identity for a modern look.
+  </p>
+</div>
 
-<hr>
+<br />
 
-<h2>Our Services 🛠️</h2>
-<p>We offer a comprehensive range of services to meet diverse client needs:</p>
-<ul>
-    <li><strong>Custom Software Development</strong>: Tailored software solutions designed specifically for your business challenges.</li>
-    <li><strong>Web Application Development</strong>: Creating dynamic and responsive web applications using Frappe and Laravel.</li>
-    <li><strong>API Development</strong>: Building robust APIs for seamless integration between systems, enhancing functionality.</li>
-    <li><strong>Data Management Solutions</strong>: Offering data analysis and management services to help you make informed, data-driven decisions.</li>
-</ul>
+<h2 align="center" style="color: white;">🌐 Connect with Us</h2>
+<div align="center">
+  <a href="mailto:hello@devtrex.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/company/devtrex-co" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61559865807518" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/devtrex_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=94742527464&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://devtrex.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
 
-<hr>
+<br />
 
-<h2>Let's Connect! 📞</h2>
-<p>Interested in learning more about our services? We’d love to hear from you!</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Let's+Build+Something+Amazing!🚀" alt="Typing SVG" />
+</div>
 
-<ul>
-    <li><strong>Website</strong>: <a href="http://www.devtrex.com">www.devtrex.com</a> 🌐</li>
-    <li><strong>Email</strong>: <a href="mailto:info@devtrex.com">info@devtrex.com</a> 📧</li>
-</ul>
+<br />
 
-<p>Together, let’s elevate your business to new heights with our advanced software solutions! 🚀📈</p>
+<p align="center" style="color: white;">
+  <em>"Exploring the digital world, Join us on this exciting journey!"</em>
+</p>
